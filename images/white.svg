@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">تريكوت gheribstore الأبيض</title><desc id="desc">واجهة وظهر تريكوت أبيض، حد أحمر وشعار GRB باللون الأسود.</desc>
+<rect width="900" height="900" fill="#090909"/>
+<g stroke="#ed1c24" stroke-width="5" stroke-linejoin="round">
+<path fill="#fff" d="M126 68 247 22 302 47Q350 70 400 47L455 22 576 68 682 181 590 267 561 241 561 457 341 457 341 241 312 267 220 181Z"/>
+<path fill="#fff" d="M124 526 244 480 300 505Q350 528 400 505L456 480 577 526 685 640 590 725 562 699 562 877 340 877 340 699 312 725 217 640Z"/>
+<path fill="#090909" d="M302 47Q350 94 400 47"/><path fill="none" d="M300 505Q350 552 400 505"/>
+</g>
+<path d="M316 509Q350 539 385 509Q378 552 350 552Q322 552 316 509Z" fill="#090909" stroke="#ed1c24" stroke-width="3"/>
+<text x="516" y="424" fill="#111" font-family="cursive" font-size="34" font-style="italic" text-anchor="middle">GRB</text>
+<text x="294" y="676" fill="#111" font-family="cursive" font-size="35" font-style="italic" text-anchor="middle" transform="rotate(90 294 676)">Gherib</text>
+</svg>
